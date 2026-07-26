@@ -8,6 +8,3 @@
 
 [![Personal Site](https://img.shields.io/badge/Personal%20Site-grey?logo=github&style=flat-square&link=https://eblondel.github.io)](https://eblondel.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/emmanuelblondel1)](https://www.linkedin.com/in/emmanuelblondel1)
-
-[![stats](https://github-readme-stats.vercel.app/api?username=eblondel&theme=vue&show_icons=true&hide_border=true)](https://github.com/eblondel)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eblondel&exclude_repo=cem_clipnet&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
